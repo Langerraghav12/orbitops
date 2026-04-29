@@ -6,11 +6,7 @@ This project was created as a resume-ready frontend portfolio project to demonst
 
 ## Live Demo
 
-Add your GitHub Pages link here after deployment:
-
-```text
-https://your-username.github.io/orbitops/
-```
+https://github.com/Langerraghav12/orbitops
 
 ## Features
 
