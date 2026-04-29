@@ -86,4 +86,4 @@ Built OrbitOps, an advanced responsive project operations dashboard using HTML, 
 
 ## Author
 
-Created by **Your Name** as a frontend portfolio project.
+Created by Raghav Langer as a frontend portfolio project.
