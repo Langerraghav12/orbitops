@@ -3,7 +3,9 @@
 OrbitOps is an advanced responsive frontend dashboard built to manage project delivery, sprint tasks, team workload, blockers, release milestones, and launch readiness from one polished interface.
 
 This project was created as a resume-ready frontend portfolio project to demonstrate strong UI design, responsive layouts, JavaScript interactivity, and product-style dashboard thinking.
+## 📸 Screenshot
 
+![Screenshot](screenshot.png)
 ## Live Demo
 
 https://github.com/Langerraghav12/orbitops
